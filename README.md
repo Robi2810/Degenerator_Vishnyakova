@@ -14,5 +14,6 @@ Type:
  - array
    - add: maxItems = 100
  - number or integer
-   - add: minimum = -2147483648, maximum = 2147483647
+   - add: minimum = -2147483648,
+   - maximum = 2147483647
   
